@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82eadc5e-ab1f-41bc-ad2d-ed4e8cc6638a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z2DduKoaq3MHhUrxzwoN57IPFD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/misc.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Karel Schorer\PycharmProjects\textmining2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Karel Schorer\PycharmProjects\textmining2" />
+      <recent name="C:\Users\Karel Schorer\PycharmProjects\textmining2\textMining" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="textmining2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Karel Schorer\.virtualenvs\textmining2\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/textMining" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/textMining/clean_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clean_code_trump" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="textmining2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Karel Schorer\.virtualenvs\textmining2\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/misc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82eadc5e-ab1f-41bc-ad2d-ed4e8cc6638a" name="Default Changelist" comment="" />
+      <created>1584028385104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584028385104</updated>
+      <workItem from="1584028393616" duration="5268000" />
+      <workItem from="1584117638452" duration="26194000" />
+      <workItem from="1584282034148" duration="4245000" />
+      <workItem from="1584712382884" duration="6786000" />
+      <workItem from="1584866346527" duration="5237000" />
+      <workItem from="1585060063542" duration="10563000" />
+      <workItem from="1585138359654" duration="7412000" />
+      <workItem from="1585155514113" duration="5240000" />
+      <workItem from="1585223951751" duration="3067000" />
+      <workItem from="1585439112945" duration="466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585138463909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1585138463909" />
+    <state x="740" y="285" key="FileChooserDialogImpl" timestamp="1585138462789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="285" key="FileChooserDialogImpl/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1585138462789" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1585167490880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1585167490880" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1585167490880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1585167490880" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1585167490880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1585167490880" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1585167490880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1585167490880" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1584055853018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1584055853018" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1584055853017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1584055853017" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1584055853017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1584055853017" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1584055853017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1584055853017" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1585439385625">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1585224032205" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.6.1920.1040@1920.6.1920.1040" timestamp="1585439385625" />
+    <state x="701" y="164" key="refactoring.ChangeSignatureDialog" timestamp="1584147776605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="164" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1584147776605" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585146442110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.87.1920.1040@0.0.1920.1040" timestamp="1585146442110" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/misc.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/textmining2$clean_code.coverage" NAME="clean_code Coverage Results" MODIFIED="1584874090015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/textMining" />
+    <SUITE FILE_PATH="coverage/textmining2$clean_code_trump.coverage" NAME="clean_code_trump Coverage Results" MODIFIED="1585159259118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/textmining2$clean_code_obama.coverage" NAME="clean_code_trump Coverage Results" MODIFIED="1585081314478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
